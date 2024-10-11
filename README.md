@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!-- 언어 -->
 <!-- 자바 -->
 <a href="/" target="_blank">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=FFFFFF" />
 </a>
 
 <!-- 자바스크립트 -->
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 <!-- React -->
 <a href="/" target="_blank">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000" />
 </a>
 
 <!-- 인텔리제이 -->
