@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br />이를 통해 웹 애플리케이션의 데이터를 효율적으로 주고받는 기술을 익혔습니다.
 
 <h3>🚩목표</h3>
-현재 훈련기관에서 운영/배포 과정을 학습하고 있습니다.
+현재 AWS를 이용하여 배포 및 인프라 관리, 특히 Docker와 Kubernetes를 활용한 컨테이너화 및 오케스트레이션에 대해 배우고 있습니다.
 <br />Java와 JavaScript를 기반으로 한 웹 백엔드 개발에 집중하고 있으며, AWS를 통해 서버 구축을 목표로 하고 있습니다.
 
 <h3>🛠️기술스택</h3>
@@ -87,14 +87,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=FFFFFF" />
 </a>
 
-<!-- Docker -->
-<a href="/" target="_blank">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF" />
-</a>
-
 <!-- 스프링부트 -->
 <a href="/" target="_blank">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=FFFFFF" />
+</a>
+
+<!-- Docker -->
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF" />
 </a>
 
 <!-- React -->
