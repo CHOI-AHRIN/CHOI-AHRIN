@@ -95,6 +95,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF" />
 </a>
 
+<br />
 <!-- -->
 
 <!-- -->
