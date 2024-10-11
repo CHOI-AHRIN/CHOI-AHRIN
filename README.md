@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">CHOI-AHRIN</h1>
 
 <h3>📂프로젝트</h3>
 두 번의 프로젝트를 통해 Spring과 JSP를 활용해 백엔드와 프론트엔드를 연결하는 경험을 쌓았으며, Spring과 React를 사용하여 REST API를 설계하고 연결하는 경험도 갖추었습니다. 
@@ -24,6 +23,7 @@ Here are some ideas to get you started:
 현재 운영/배포 과정을 학습하고 있습니다.
 백엔드 개발에 집중하고 있으며, AWS를 통해 서버 구축을 목표로 하고 있습니다.
 
+<br />
 <!-- 환경 -->
 <!-- 윈도우 -->
 <a href="/" target="_blank">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=000000" />
 </a>
 
-
+<br />
 <!-- 언어 -->
 <!-- 자바 -->
 <a href="/" target="_blank">
@@ -71,13 +71,16 @@ Here are some ideas to get you started:
 
 <!-- 인텔리제이 -->
 <a href="/" target="_blank">
-  <img src="https://img.shields.io/badge/intellijidea-000000style=flat&logo=intellijidea&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=FFFFFF" />
 </a>
 
 <!-- VS CODE-->
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" />
 
 <!-- GitHub -->
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF" />
+</a>
 
 <!-- -->
 
