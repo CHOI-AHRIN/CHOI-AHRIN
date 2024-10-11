@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3>🛠️기술스택</h3>
 
-<ul style="list-style-type: none;">운영체제</ul>
+<li>운영체제</li>
 <!-- 환경 -->
 <!-- 윈도우 -->
 <a href="/" target="_blank">
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-<ul style="list-style-type: none;">데이터베이스</ul>
+<li>데이터베이스</li>
 <!-- 데이터베이스 -->
 <!-- 오라클 -->
 <a href="/" target="_blank">
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-<ul style="list-style-type: none;">프레임워크/툴</ul>
+<li>프레임워크/툴</li>
 <!-- 프레임워크 및 툴 -->
 <!-- 스프링 -->
 <a href="/" target="_blank">
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-<ul style="list-style-type: none;">형상관리</ul>
+<li>형상관리</li>
 <!-- GitHub -->
 <a href="/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF" />
