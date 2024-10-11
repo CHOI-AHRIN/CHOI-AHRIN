@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm aiming to become a backend web developer focused on Java ☺️
+I'm aiming to become a backend web developer focused on Java ☺️
 
 <!--
 **CHOI-AHRIN/CHOI-AHRIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
