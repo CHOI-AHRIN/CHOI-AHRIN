@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <!-- HTML -->
 <a href="/" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=000000" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF" />
 </a>
 
 <br />
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 <!-- React -->
 <a href="/" target="_blank">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF" />
 </a>
 
 <!-- 인텔리제이 -->
