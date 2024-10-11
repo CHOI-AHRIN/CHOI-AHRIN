@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 <!-- 환경 -->
 <!-- 윈도우 -->
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" style="display: inline-block; margin: 0;" />
+</a>
 
 
 <!-- 리눅스 -->
@@ -46,6 +48,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000000" />
 </a>
 
+<!-- 오라클 -->
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=FFFFFF" />
+</a>
+
 <!-- 프레임워크 및 툴 -->
 <!-- 스프링 -->
 <a href="/" target="_blank">
@@ -57,6 +64,24 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=FFFFFF" />
 </a>
 
+<!-- React -->
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF" />
+</a>
+
+<!-- 인텔리제이 -->
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/intellijidea-000000style=flat&logo=intellijidea&logoColor=FFFFFF" />
+</a>
+
+<!-- VS CODE-->
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" />
+
+<!-- GitHub -->
+
+<!-- -->
+
+<!-- -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-AHRIN&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-AHRIN)]
 
