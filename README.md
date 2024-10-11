@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 백엔드 개발에 집중하고 있으며, AWS를 통해 서버 구축을 목표로 하고 있습니다.
 
 <br />
+<br />
+<br />S
 <!-- 환경 -->
 <!-- 윈도우 -->
 <a href="/" target="_blank">
@@ -75,7 +77,7 @@ Here are some ideas to get you started:
 </a>
 
 <!-- VS CODE-->
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
 
 <!-- GitHub -->
 <a href="/" target="_blank">
