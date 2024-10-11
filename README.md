@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Virtual_Machine-183A61?style=flat&logo=VirtualBox&logoColor=FFFFFF" />
 </a>
 
+<br />
 <ul style="list-style-type: none;">언어</ul>
 <!-- 언어 -->
 <!-- 자바 -->
@@ -60,6 +61,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=000000" />
 </a>
 
+<br />
 <ul style="list-style-type: none;">데이터베이스</ul>
 <!-- 데이터베이스 -->
 <!-- 오라클 -->
@@ -72,7 +74,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF" />
 </a>
 
-<ul style="list-style-type: none;">프레임워크/툴툴</ul>
+<br />
+<ul style="list-style-type: none;">프레임워크/툴</ul>
 <!-- 프레임워크 및 툴 -->
 <!-- 스프링 -->
 <a href="/" target="_blank">
@@ -104,6 +107,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
 </a>
 
+<br />
 <ul style="list-style-type: none;">형상관리</ul>
 <!-- GitHub -->
 <a href="/" target="_blank">
