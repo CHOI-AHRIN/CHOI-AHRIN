@@ -1,4 +1,4 @@
-## Hi there 👋 I'm aiming to become a backend web developer focused on Java ☺️
+## Hi there 👋 <br /> I'm aiming to become a backend web developer focused on Java ☺️
 
 
 <!--
