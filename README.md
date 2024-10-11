@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="/" target="_blank"><img src="https://img.shields.io/badge/Linux-#FCC624?style=plastic&logo=Linux&logoColor=#FCC624"/></a>
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=FCC624" />
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-AHRIN&show_icons=true&theme=radical)
