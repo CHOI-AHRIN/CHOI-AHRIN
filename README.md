@@ -55,6 +55,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000000" />
 </a>
 
+<!-- HTML -->
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=000000" />
+</a>
+
 <h4>데이터베이스</h4>
 <!-- 데이터베이스 -->
 <!-- 오라클 -->
