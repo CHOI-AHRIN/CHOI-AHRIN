@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 현재 운영/배포 과정을 학습하고 있습니다.
 백엔드 개발에 집중하고 있으며, AWS를 통해 서버 구축을 목표로 하고 있습니다.
 
-<br />
-<br />
-<br />
+<h3>🛠️기술스택</h3>
 
-
+<h4>운영체제</h4>
 <!-- 환경 -->
 <!-- 윈도우 -->
 <a href="/" target="_blank">
@@ -40,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=000000" />
 </a>
 
-<br />
+<h4>언어</h4>
 <!-- 언어 -->
 <!-- 자바 -->
 <a href="/" target="_blank">
@@ -52,6 +50,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000000" />
 </a>
 
+<h4>데이터베이스</h4>
+<!-- 데이터베이스 -->
 <!-- 오라클 -->
 <a href="/" target="_blank">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=FFFFFF" />
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF" />
 </a>
 
-<br />
+<h4>프레임워크/툴</h4>
 <!-- 프레임워크 및 툴 -->
 <!-- 스프링 -->
 <a href="/" target="_blank">
@@ -85,8 +85,11 @@ Here are some ideas to get you started:
 </a>
 
 <!-- VS CODE-->
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
+</a>
 
+<h4>형상관리</h4>
 <!-- GitHub -->
 <a href="/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF" />
