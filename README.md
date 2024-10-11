@@ -21,6 +21,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-ff339f?style=plastic&logo=Linux&logoColor=FCC624" />
 </a>
 
+<!-- 자바 -->
+![js](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white)
+
 <!-- 자바스크립트 -->
 <a href="/" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-ff339f?style=plastic&logo=JavaScript&logoColor=F7DF1E" />
@@ -37,3 +40,5 @@ Here are some ideas to get you started:
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-AHRIN&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-AHRIN)]
+
