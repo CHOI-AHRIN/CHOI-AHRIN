@@ -16,14 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
+<!-- 환경 -->
 <!-- 리눅스 -->
 <a href="/" target="_blank">
   <img src="https://img.shields.io/badge/Linux-ff339f?style=for-the-badge&logo=Linux&logoColor=FCC624" />
 </a>
 
+
+<!-- 언어 -->
 <!-- 자바 -->
 <a href="/" target="_blank">
-  <img src="https://img.shields.io/badge/Java-ff339f?style=for-the-badge&logo=OpenJDK&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Java-00B0F0?style=for-the-badge&logo=OpenJDK&logoColor=F7DF1E" />
 </a>
 
 <!-- 자바스크립트 -->
@@ -31,6 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-ff339f?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" />
 </a>
 
+<!-- 프레임워크 및 툴 -->
 <!-- 스프링 -->
 <a href="/" target="_blank">
   <img src="https://img.shields.io/badge/Spring-ff339f?style=for-the-badge&logo=spring&logoColor=6DB33F" />
