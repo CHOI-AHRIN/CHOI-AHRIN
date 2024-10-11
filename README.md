@@ -38,6 +38,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=000000" />
 </a>
 
+<!-- 버츄얼머신 -->
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/Virtual_Machine-183A61?style=flat&logo=VirtualBox&logoColor=FFFFFF" />
+</a>
+
 <h4>언어</h4>
 <!-- 언어 -->
 <!-- 자바 -->
@@ -67,6 +72,11 @@ Here are some ideas to get you started:
 <!-- 스프링 -->
 <a href="/" target="_blank">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=FFFFFF" />
+</a>
+
+<!-- Docker -->
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF" />
 </a>
 
 <!-- 스프링부트 -->
