@@ -57,6 +57,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=FFFFFF" />
 </a>
 
+<!-- MySQL -->
+<a href="/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF" />
+</a>
+
 <br />
 <!-- 프레임워크 및 툴 -->
 <!-- 스프링 -->
