@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-<br />
-<ul style="list-style-type: none;">언어</ul>
+<li>언어</li>
 <!-- 언어 -->
 <!-- 자바 -->
 <a href="/" target="_blank">
