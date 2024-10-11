@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
+<br />
 <li>언어</li>
 <!-- 언어 -->
 <!-- 자바 -->
@@ -62,6 +63,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
+<br />
 <li>데이터베이스</li>
 <!-- 데이터베이스 -->
 <!-- 오라클 -->
@@ -74,6 +76,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF" />
 </a>
 
+<br />
 <br />
 <li>프레임워크/툴</li>
 <!-- 프레임워크 및 툴 -->
@@ -108,6 +111,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
+<br />
 <li>형상관리</li>
 <!-- GitHub -->
 <a href="/" target="_blank">
@@ -116,7 +120,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<br />
+
 <!-- -->
 
 <!-- -->
