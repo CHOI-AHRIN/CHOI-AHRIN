@@ -16,14 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>📂프로젝트</h3>
-세 번의 프로젝트 마이그레이션을 통해 Spring과 JSP를 활용해 백엔드와 프론트엔드를 연결하는 경험을 쌓았으며, 
-<br />Spring과 React를 사용하여 REST API를 설계하고 연결하는 경험도 갖추었습니다. 
-<br />이를 통해 웹 애플리케이션의 데이터를 효율적으로 주고받는 기술을 익혔습니다.
-<br />또한 Linux 환경에서의 개발과 배포, 또 운영환경에서의 배포를 진행한 경험이 있습니다.
 
-<h3>🚩목표</h3>
-## Hi there 👋 <br /> I'm aiming to become a backend web developer focused on Java ☺️
 
 
 <!--
