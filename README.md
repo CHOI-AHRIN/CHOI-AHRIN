@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 총 3번의 프로젝트 마이그레이션을 통해 다음과 같은 경험을 쌓았습니다.
 
 <br /> Spring Legacy 프로젝트, 즉 Spring MVC 아키텍처 기반으로 브라우저 요청을 Controller(서블릿)에서 처리한 뒤, Model(JavaBean)을 통해 데이터를 가공하고 JSP를 통해 View를 생성하여 응답을 보내는 구조로 프로토타입을 구현하였습니다.
+<br />
 <br /> 이를 기반으로 리눅스 개발환경에서 React를 사용한 프론트엔드와 Spring Boot 백엔드가 REST API를 통해 통신하며, MyBatis를 활용해 데이터베이스의 CRUD 작업을 처리하는 구조로 웹 애플리케이션을 설계하였습니다.
+<br />
 <br /> DevOps 환경으로 개발자가 푸시한 코드를 Jenkins의 자동화된 CI/CD 파이프라인을 통해 React와 Spring Boot 시스템을 지속적으로 통합하고, Kubernetes로 지속적으로 배포하여 효율성과 안정성을 극대화한 구조를 성공적으로 구현했습니다.
 
 <h3>🚩목표</h3>
