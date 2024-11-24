@@ -156,7 +156,7 @@ SpringBoot를 활용한 백엔드 개발과 Docker, Kubernetes를 이용한 컨�
 
 <!-- -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-AHRIN&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-AHRIN&show_icons=true&theme=radical) -->
 
 
 <h3>🛠️기술스택</h3>
@@ -261,5 +261,5 @@ SpringBoot를 활용한 백엔드 개발과 Docker, Kubernetes를 이용한 컨�
 
 <!-- -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-AHRIN&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI-AHRIN&show_icons=true&theme=radical) -->
 
