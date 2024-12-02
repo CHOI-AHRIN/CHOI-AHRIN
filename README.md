@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <br />
 <br /> DevOps 환경으로 개발자가 푸시한 코드를 Jenkins의 자동화된 CI/CD 파이프라인을 통해 React와 Spring Boot 시스템을 지속적으로 통합하고, Kubernetes로 지속적으로 배포하여 효율성과 안정성을 극대화한 구조를 성공적으로 구현했습니다.
 [📖최종프로젝트](https://github.com/CHOI-AHRIN/CHOI-AHRIN/blob/main/02.%20HealthPlan_%EC%B5%9C%EC%95%84%EB%A6%B0.pdf) | [📽️최종프로젝트](https://www.youtube.com/watch?v=8H7hkPAbook "리눅스 환경 기반의 React와 SpringBoot 프로젝트") | [📕BE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan) | [📕FE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan_front)
+<br />
 <br /> 현재는 Java 기초를 복습하고, 기업 초청 프로젝트 발표회의 피드백을 기반으로 프로젝트를 업그레이드 하고 있습니다. [✏️필기](https://github.com/CHOI-AHRIN/base) | [🗂️프로젝트ver2](https://github.com/CHOI-AHRIN/HealthPlan_v2)
 
 
