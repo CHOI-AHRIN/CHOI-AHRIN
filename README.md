@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br /> **DevOps 환경**으로 개발자가 푸시한 코드를 Jenkins의 자동화된 CI/CD 파이프라인을 통해 React와 Spring Boot 시스템을 지속적으로 통합하고, Kubernetes로 지속적으로 배포하여 효율성과 안정성을 극대화한 구조를 성공적으로 구현했습니다.
 <br />
 <br /> 
-### 현재는 Java 기초를 복습하고, 기업 초청 프로젝트 발표회의 피드백을 기반으로 프로젝트를 업그레이드 하고 있습니다. [✏️필기](https://github.com/CHOI-AHRIN/base) | [🗂️프로젝트ver2](https://github.com/CHOI-AHRIN/HealthPlan_v2)
+현재는 Java 기초를 복습하고, 기업 초청 프로젝트 발표회의 피드백을 기반으로 프로젝트를 업그레이드 하고 있습니다. [✏️필기](https://github.com/CHOI-AHRIN/base) | [🗂️프로젝트ver2](https://github.com/CHOI-AHRIN/HealthPlan_v2)
 
 
 <br />
