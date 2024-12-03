@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/62770eef-a8a1-4d8f-b721-3cdb59b61fc3)## Hi there 👋 <br /> I'm aiming to become a backend web developer focused on Java ☺️
+## Hi there 👋 <br /> I'm aiming to become a backend web developer focused on Java ☺️
 
 
 <!--
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 | 프로젝트 | 구현방법 | 툴 | 코드 | 포트폴리오 | 영상 |
 |-----------------|--------------------|--------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
 | 프로토타입 | Spring + JSP | Spring Legacy | - | [📖프로토타입](https://github.com/CHOI-AHRIN/CHOI-AHRIN/blob/main/01.%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%EC%B5%9C%EC%95%84%EB%A6%B0.pdf) | [📽️프로토타입](https://www.youtube.com/watch?v=MoTTK05v9Lo&feature=youtu.be) |
-| HealthPlan | SpringBoot + React | IntelliJ, VS Code | [📕BE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan) | [📕FE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan_front) | [📖최종프로젝트](https://github.com/CHOI-AHRIN/CHOI-AHRIN/blob/main/02.%20HealthPlan_%EC%B5%9C%EC%95%84%EB%A6%B0.pdf) |  [📽️최종프로젝트](https://www.youtube.com/watch?v=8H7hkPAbook "리눅스 환경 기반의 React와 SpringBoot 프로젝트") |
+| HealthPlan | SpringBoot + React | IntelliJ, VS Code | [📕BE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan) [📕FE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan_front) | [📖최종프로젝트](https://github.com/CHOI-AHRIN/CHOI-AHRIN/blob/main/02.%20HealthPlan_%EC%B5%9C%EC%95%84%EB%A6%B0.pdf) |  [📽️최종프로젝트](https://www.youtube.com/watch?v=8H7hkPAbook "리눅스 환경 기반의 React와 SpringBoot 프로젝트") |
 
 <br /> Spring Legacy 프로젝트, 즉 Spring MVC 아키텍처 기반으로 브라우저 요청을 Controller(서블릿)에서 처리한 뒤, Model(JavaBean)을 통해 데이터를 가공하고 JSP를 통해 View를 생성하여 응답을 보내는 구조로 프로토타입을 구현하였습니다.
 <br />
