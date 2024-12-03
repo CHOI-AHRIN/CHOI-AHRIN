@@ -1,4 +1,4 @@
-## Hi there 👋 <br /> I'm aiming to become a backend web developer focused on Java ☺️
+![image](https://github.com/user-attachments/assets/62770eef-a8a1-4d8f-b721-3cdb59b61fc3)## Hi there 👋 <br /> I'm aiming to become a backend web developer focused on Java ☺️
 
 
 <!--
@@ -40,15 +40,19 @@ Here are some ideas to get you started:
 -->
 
 <h3>📂프로젝트 경험</h3>
-총 3번의 프로젝트 마이그레이션을 통해 다음과 같은 경험을 쌓았습니다.
+
+건강에 대한 관심이 높아짐에 따라 운동을 보다 쉽게 접할 수 있도록 웹 애플리케이션을 개발하였습니다.
+
+| 프로젝트 | 구현방법 | 툴 | 코드 | 포트폴리오 | 영상 |
+|-----------------|--------------------|--------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| 프로토타입 | Spring + JSP | Spring Legacy | - | [📖프로토타입](https://github.com/CHOI-AHRIN/CHOI-AHRIN/blob/main/01.%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%EC%B5%9C%EC%95%84%EB%A6%B0.pdf) | [📽️프로토타입](https://www.youtube.com/watch?v=MoTTK05v9Lo&feature=youtu.be) |
+| HealthPlan | SpringBoot + React | IntelliJ, VS Code | [📕BE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan) | [📕FE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan_front) | [📖최종프로젝트](https://github.com/CHOI-AHRIN/CHOI-AHRIN/blob/main/02.%20HealthPlan_%EC%B5%9C%EC%95%84%EB%A6%B0.pdf) |  [📽️최종프로젝트](https://www.youtube.com/watch?v=8H7hkPAbook "리눅스 환경 기반의 React와 SpringBoot 프로젝트") |
 
 <br /> Spring Legacy 프로젝트, 즉 Spring MVC 아키텍처 기반으로 브라우저 요청을 Controller(서블릿)에서 처리한 뒤, Model(JavaBean)을 통해 데이터를 가공하고 JSP를 통해 View를 생성하여 응답을 보내는 구조로 프로토타입을 구현하였습니다.
-[📖프로토타입](https://github.com/CHOI-AHRIN/CHOI-AHRIN/blob/main/01.%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%EC%B5%9C%EC%95%84%EB%A6%B0.pdf) | [📽️프로토타입](https://www.youtube.com/watch?v=MoTTK05v9Lo&feature=youtu.be)
 <br />
-<br /> 이를 기반으로 리눅스 개발환경에서 React를 사용한 프론트엔드와 Spring Boot 백엔드가 REST API를 통해 통신하며, MyBatis를 활용해 데이터베이스의 CRUD 작업을 처리하는 구조로 웹 애플리케이션을 설계하였습니다.
+<br /> 이를 기반으로 **리눅스** 개발환경에서 React를 사용한 프론트엔드와 Spring Boot 백엔드가 REST API를 통해 통신하며, MyBatis를 활용해 데이터베이스의 CRUD 작업을 처리하는 구조로 웹 애플리케이션을 설계하였습니다.
 <br />
-<br /> DevOps 환경으로 개발자가 푸시한 코드를 Jenkins의 자동화된 CI/CD 파이프라인을 통해 React와 Spring Boot 시스템을 지속적으로 통합하고, Kubernetes로 지속적으로 배포하여 효율성과 안정성을 극대화한 구조를 성공적으로 구현했습니다.
-[📖최종프로젝트](https://github.com/CHOI-AHRIN/CHOI-AHRIN/blob/main/02.%20HealthPlan_%EC%B5%9C%EC%95%84%EB%A6%B0.pdf) | [📽️최종프로젝트](https://www.youtube.com/watch?v=8H7hkPAbook "리눅스 환경 기반의 React와 SpringBoot 프로젝트") | [📕BE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan) | [📕FE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan_front)
+<br /> **DevOps 환경**으로 개발자가 푸시한 코드를 Jenkins의 자동화된 CI/CD 파이프라인을 통해 React와 Spring Boot 시스템을 지속적으로 통합하고, Kubernetes로 지속적으로 배포하여 효율성과 안정성을 극대화한 구조를 성공적으로 구현했습니다.
 <br />
 <br /> 현재는 Java 기초를 복습하고, 기업 초청 프로젝트 발표회의 피드백을 기반으로 프로젝트를 업그레이드 하고 있습니다. [✏️필기](https://github.com/CHOI-AHRIN/base) | [🗂️프로젝트ver2](https://github.com/CHOI-AHRIN/HealthPlan_v2)
 
@@ -58,8 +62,12 @@ Here are some ideas to get you started:
 <h3>🚩목표</h3>
 Java의 안정성과 성능을 활용하여 대규모 트래픽을 처리할 수 있는 백엔드 서버를 설계하고 구축하는 것을 목표로 하며,
 <br />안정적인 애플리케이션을 설계, 구현, 배포한 경험을 바탕으로, 실무에서 바로 기여할 수 있는 개발자가 되는 것을 목표로 하고 있습니다.
-<br />자동화된 CI/CD 파이프라인과 운영 환경 최적화 경험을 살려, 효율적인 개발 프로세스와 안정적인 서비스 운영을 지원하고자 합니다.
-<br />Java 기반 백엔드 개발의 전문성을 갖추고, 클라우드 네이티브 환경에서 팀의 목표 달성을 돕는 유능한 개발자가 되고자 합니다.
+<br />
+<br />나아가 자동화된 CI/CD 파이프라인과 운영 환경 최적화 경험을 살려, 효율적인 개발 프로세스와 안정적인 서비스 운영을 지원하고자 합니다.
+<br /> 
+<br />Java 기반 백엔드 개발의 전문성을 갖추기 위해 멀티스레드 기반의 프로그램을 개발하고 있습니다. 
+
+<br />
 
 <h3>🛠️기술스택</h3>
 
