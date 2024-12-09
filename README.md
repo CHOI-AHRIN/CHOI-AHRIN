@@ -44,11 +44,16 @@ Here are some ideas to get you started:
 
 <br />
 
-현재는 `왜`라는 의문을 가지고 배웠던 Java를 다시 밀도있게 공부하며 기반을 다져나가고 있으며,  [✏️필기](https://github.com/CHOI-AHRIN/base)
+현재는 `왜`라는 의문을 가지고 배웠던 Java를 다시 밀도있게 공부하며 기반을 다져나가고 있으며,
 <br /> Java의 강점인 멀티스레드와 JVM 최적화를 깊이 이해하여, 고성능의 확장 가능한 서버 애플리케이션을 개발하는 것을 목표로 하고 있습니다.
 <br />
 <br /> 복습을 끝낸 이후부터 Java 언어 특성인 멀티스레드와 네트워크 통신을 활용한 `채팅 프로그램`을 통해 실시간 데이터 처리와 자원 관리를 더 깊이 이해하고자 합니다. 
+`ing!!`
 
+| 이름 | 구현방법 | 툴 | 코드 | 계획 | 일지 | 기간 |
+|:-----------------:|:--------------------:|:--------------------------------------------:|:-------------------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|:--------------:|
+| HealthPlan_v2 | SpringBoot + React | VS Code | [📕[BE]HealthPlan](https://github.com/CHOI-AHRIN/HealthPlan_v2) [📕[FE]HealthPlan](https://github.com/CHOI-AHRIN/HealthPlan_front_v2) | [📍계획](https://github.com/CHOI-AHRIN/HealthPlan_v2/blob/master/README.md) | [📆일지](https://github.com/CHOI-AHRIN/HealthPlan_v2/blob/master/src/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80.md) | **24. 12. 09 ~ 31** |
+| Java | - | - | [✏️필기](https://github.com/CHOI-AHRIN/base) | [📍계획](https://github.com/CHOI-AHRIN/base/blob/master/README.md) | - | **24. 12. 01 ~ 31** |
 
 
 <br />
@@ -70,14 +75,8 @@ Here are some ideas to get you started:
 <br /> **DevOps 환경**으로 개발자가 푸시한 코드를 Jenkins의 자동화된 CI/CD 파이프라인을 통해 React와 Spring Boot 시스템을 지속적으로 통합하고, Kubernetes로 지속적으로 배포하여 효율성과 안정성을 극대화한 구조를 성공적으로 구현했습니다.
 <br />
 <br /> 
-### 현재는 Java 기초를 복습하고, 기업 초청 프로젝트 발표회의 피드백을 기반으로 프로젝트를 업그레이드 하고 있습니다. 
+현재는 Java 기초를 복습하고, 기업 초청 프로젝트 발표회의 피드백을 기반으로 프로젝트를 업그레이드 하고 있습니다. 
 
-`ing!!`
-
-| 이름 | 구현방법 | 툴 | 코드 | 계획 | 일지 | 기간 |
-|:-----------------:|:--------------------:|:--------------------------------------------:|:-------------------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|:--------------:|
-| HealthPlan_v2 | SpringBoot + React | VS Code | [📕[BE]HealthPlan](https://github.com/CHOI-AHRIN/HealthPlan_v2) [📕[FE]HealthPlan](https://github.com/CHOI-AHRIN/HealthPlan_front_v2) | [📍계획](https://github.com/CHOI-AHRIN/HealthPlan_v2/blob/master/README.md) | [📆일지](https://github.com/CHOI-AHRIN/HealthPlan_v2/blob/master/src/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80.md) | **24. 12. 09 ~ 31** |
-| Java | - | - | [✏️필기](https://github.com/CHOI-AHRIN/base) | [📍계획](https://github.com/CHOI-AHRIN/base/blob/master/README.md) | - | **24. 12. 01 ~ 31** |
 
 
 <br />
