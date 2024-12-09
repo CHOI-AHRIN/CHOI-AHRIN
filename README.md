@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 | 프로젝트 | 구현방법 | 툴 | 코드 | 포트폴리오 | 영상 |
 |:-----------------:|:--------------------:|:--------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
 | 프로토타입 | Spring + JSP | Spring Legacy | - | [📖프로토타입](https://github.com/CHOI-AHRIN/CHOI-AHRIN/blob/main/01.%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%EC%B5%9C%EC%95%84%EB%A6%B0.pdf) | [📽️프로토타입](https://www.youtube.com/watch?v=MoTTK05v9Lo&feature=youtu.be) |
-| HealthPlan | SpringBoot + React | IntelliJ, VS Code | [📕BE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan) [📕FE최종프로젝트](https://github.com/CHOI-AHRIN/HealthPlan_front) | [📖최종프로젝트](https://github.com/CHOI-AHRIN/CHOI-AHRIN/blob/main/02.%20HealthPlan_%EC%B5%9C%EC%95%84%EB%A6%B0.pdf) |  [📽️최종프로젝트](https://www.youtube.com/watch?v=8H7hkPAbook "리눅스 환경 기반의 React와 SpringBoot 프로젝트") |
+| HealthPlan | SpringBoot + React | IntelliJ, VS Code | [📕[BE]HealthPlan](https://github.com/CHOI-AHRIN/HealthPlan) [📕[FE]HealthPlan](https://github.com/CHOI-AHRIN/HealthPlan_front) | [📖HealthPlan](https://github.com/CHOI-AHRIN/CHOI-AHRIN/blob/main/02.%20HealthPlan_%EC%B5%9C%EC%95%84%EB%A6%B0.pdf) |  [📽️HealthPlan](https://www.youtube.com/watch?v=8H7hkPAbook "리눅스 환경 기반의 React와 SpringBoot 프로젝트") |
 
 <br /> Spring Legacy 프로젝트, 즉 Spring MVC 아키텍처 기반으로 브라우저 요청을 Controller(서블릿)에서 처리한 뒤, Model(JavaBean)을 통해 데이터를 가공하고 JSP를 통해 View를 생성하여 응답을 보내는 구조로 프로토타입을 구현하였습니다.
 <br />
@@ -70,7 +70,14 @@ Here are some ideas to get you started:
 <br /> **DevOps 환경**으로 개발자가 푸시한 코드를 Jenkins의 자동화된 CI/CD 파이프라인을 통해 React와 Spring Boot 시스템을 지속적으로 통합하고, Kubernetes로 지속적으로 배포하여 효율성과 안정성을 극대화한 구조를 성공적으로 구현했습니다.
 <br />
 <br /> 
-### 현재는 Java 기초를 복습하고, 기업 초청 프로젝트 발표회의 피드백을 기반으로 프로젝트를 업그레이드 하고 있습니다. [✏️필기](https://github.com/CHOI-AHRIN/base) | [🗂️프로젝트ver2](https://github.com/CHOI-AHRIN/HealthPlan_v2)
+### 현재는 Java 기초를 복습하고, 기업 초청 프로젝트 발표회의 피드백을 기반으로 프로젝트를 업그레이드 하고 있습니다. 
+
+`ing!!`
+
+| 이름 | 구현방법 | 툴 | 코드 | 계획 | 일지 | 기간 |
+|:-----------------:|:--------------------:|:--------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
+| HealthPlan_v2 | SpringBoot + React | VS Code | [📕[BE]HealthPlan](https://github.com/CHOI-AHRIN/HealthPlan_v2) [📕[FE]HealthPlan](https://github.com/CHOI-AHRIN/HealthPlan_front_v2) | [📍계획](https://github.com/CHOI-AHRIN/HealthPlan_v2/blob/master/README.md) | [📆일지](https://github.com/CHOI-AHRIN/HealthPlan_v2/blob/master/src/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80.md) | **24. 12. 09 ~ 31** |
+| Java | - | - | [✏️필기](https://github.com/CHOI-AHRIN/base) | [📍계획](https://github.com/CHOI-AHRIN/base/blob/master/README.md) | - | **24. 12. 01 ~ 31** |
 
 
 <br />
