@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 **`☃️ing!!`**
 
 | 이름 | 구현방법 | 툴 | 코드 | 계획 | 일지 | 기간 |
-|:-----------------:|:--------------------:|:--------------------:|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|:--------------:|
+|:-----------------:|:-----------------------:|:--------------------:|:-----------------------:|:--------------------:|:--------------------:|:--------------------:|
 | HealthPlan_v2 | SpringBoot + React | VS Code | [📕[BE]HealthPlan_v2](https://github.com/CHOI-AHRIN/HealthPlan_v2) [📕[FE]HealthPlan_v2](https://github.com/CHOI-AHRIN/HealthPlan_front_v2) | [📍계획](https://github.com/CHOI-AHRIN/HealthPlan_v2/blob/master/README.md) | [📆일지](https://github.com/CHOI-AHRIN/HealthPlan_v2/blob/master/src/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80.md) | **24. 12. 09 ~ 31** |
 | Java | - | - | [✏️필기](https://github.com/CHOI-AHRIN/base) | [📍계획](https://github.com/CHOI-AHRIN/base/blob/master/README.md) | - | **24. 12. 01 ~ 31** |
 
