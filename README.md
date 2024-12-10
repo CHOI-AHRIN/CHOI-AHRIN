@@ -1,4 +1,4 @@
-## Hi there 👋 <br /> I'm aiming to become a backend web developer focused on Java ☺️
+## Hi there 👋 <br /> I'm aiming to become a backend web developer focused on Java ☺️ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHOI-AHRIN&count_bg=%2300A6FF&title_bg=%23E30575&icon=&icon_color=%23000000&title=AHRIN&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 <br />또한 Linux 환경에서의 개발과 배포, 또 운영환경에서의 배포를 진행한 경험이 있습니다.
 
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHOI-AHRIN&count_bg=%2300A6FF&title_bg=%23E30575&icon=&icon_color=%23000000&title=AHRIN&edge_flat=false)](https://hits.seeyoufarm.com)
-<br />
+
 안녕하세요. Java 백엔드 개발자를 희망하는 **`최아린`**입니다 :)
 <br /> 2024년 05월부터 11월까지 훈련기간에 다니며 Java 웹 어플리케이션을 설계하고 제작하였으며, 
 <br /> 이를 이용해 Docker와 Kubernetes를 활용하여 Java 웹 애플리케이션을 성공적으로 컨테이너화하고, CI/CD 파이프라인을 구축해 배포 자동화를 구현했습니다.
